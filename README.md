@@ -24,6 +24,5 @@ A RESTful API for a blogging platform built with Node.js, Express, and MongoDB.
 - bcrypt Password Hashing
 - express-validator
 
-## Contributors
+## Developed by:
 - Ishimwe kevin
-- nayituriki oliva
