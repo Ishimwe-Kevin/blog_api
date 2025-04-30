@@ -7,7 +7,7 @@ A RESTful API for a blogging platform built with Node.js, Express, and MongoDB.
 1. Clone the repository
 2. Run `npm install`
 3. Create a `.env` file based on example
-4. Run `npm run dev`
+4. Run `npm start`
 
 ## API Endpoints
 - Auth
